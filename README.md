@@ -1,1 +1,1 @@
-# face-generartion
+# face-generation
